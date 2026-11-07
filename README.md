@@ -200,3 +200,6 @@ This repository serves as the official landing page for Actual Window Manager. T
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Actual Window Manager today!**
+
+---
+**Last updated:** 2026-11-07 14:31:47 UTC
