@@ -202,4 +202,4 @@ This repository serves as the official landing page for Actual Window Manager. T
 **Get the most recent version of Actual Window Manager today!**
 
 ---
-**Last updated:** 2026-11-13 20:10:59 UTC
+**Last updated:** 2026-11-14 01:08:37 UTC
